@@ -1,8 +1,8 @@
-#Nama : Moh. Aulia Miftakhurahmat
-#NPM : 201063110087
-#Kelas : 6D
-
 # face-detection
+
+### Nama : Moh. Aulia Miftakhurahmat
+### NPM : 201063110087
+### Kelas : 6D
 
 Link Google colab : 
 https://colab.research.google.com/drive/1Q-tGxNNTVdDj-eNCw2mlWOJ38M7fm2ua?usp=sharing
